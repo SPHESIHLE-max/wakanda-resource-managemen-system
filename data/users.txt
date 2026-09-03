@@ -1,0 +1,3 @@
+ADMIN|bb@gmail.com|8c1c396b110794eb894a67dfedd82f3c9a37d5e048a0f4c51a4f3ba53d49f1e0|AD3954|Sphosakhe
+USER|aa@gmail.com|bd2c060171e74994d18ffbe6c2b72bfc10ef5ee221927e795dce0eff1404db18|Minenhle
+TECH|tr@gmail.com|8c1c396b110794eb894a67dfedd82f3c9a37d5e048a0f4c51a4f3ba53d49f1e0|TECH-5529|false|Buhle Zuma
